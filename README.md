@@ -1,4 +1,4 @@
-[Titanfall 2: Northstar](https://github.com/R2Northstar/) contributor. Source engine enjoyer.
+[R2Northstar](https://github.com/R2Northstar/) contributor. Source engine enjoyer.
 
 ![NachosChipeados's GitHub stats](https://github-readme-stats.vercel.app/api?username=NachosChipeados&theme=radical)
 
